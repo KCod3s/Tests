@@ -6,7 +6,7 @@ public class BlackJack{
     Scanner sc = new Scanner(System.in);
     Random rn = new Random();
     
-    int money = 2500;
+    int money = 2000;
     int bet = 100;
     
     int dealer;
