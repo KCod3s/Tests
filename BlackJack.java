@@ -7,7 +7,7 @@ public class BlackJack{
     Random rn = new Random();
     
     int money = 2000;
-    int bet = 300;
+    int bet = 100;
     
     int dealer;
     int dealerSec;
