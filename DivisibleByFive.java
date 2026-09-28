@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//This was around first year
 public class DivisibleByFive{
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
